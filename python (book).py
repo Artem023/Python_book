@@ -1,5 +1,8 @@
 #001
 
+name = input ('Enter your name: ')
+print ('Hello', name)
+
 #002
 
 #003
