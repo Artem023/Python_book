@@ -11,6 +11,8 @@ print ('Hello, ', first_name, second_name)
 
 #003
 
+print ('What do you call a bear with no teeth? ', 'A gummy bear!')
+
 #004
 
 #005
