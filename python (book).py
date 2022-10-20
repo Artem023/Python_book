@@ -6,6 +6,11 @@
 
 #004
 
+num1 = int (input ('Введите первое число: '))
+num2 = int (input ('Введите второе число: '))
+print ('The total is ', num1 + num2)
+
+
 #005
 
 #006
