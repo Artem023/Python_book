@@ -41,6 +41,11 @@ print (name, 'next birthday you will be ', age + 1)
 
 #008
 
+bill = int(input("What is the total cost of the bill? "))
+people = int(input("How many people are there? "))
+each = bill / people
+print("Each person should pay ₤", each)
+
 #009
 
 #010
