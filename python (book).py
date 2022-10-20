@@ -12,6 +12,10 @@
 
 #007
 
+name = input ('Enter your name: ')
+age = int (input ('Enter your age: '))
+print (name, 'next birthday you will be ', age + 1)
+
 #008
 
 #009
