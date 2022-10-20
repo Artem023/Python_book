@@ -20,6 +20,11 @@
 
 #011
 
+larger = int(input("Enter a number of 100: "))
+smaller = int(input("Enter a number under 10: "))
+answer = larger // smaller
+print(smaller, " goes into ", larger, answer, " times")
+
 #012
 
 #013
