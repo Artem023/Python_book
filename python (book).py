@@ -1,74 +1,24 @@
 #001
 
-name = input ('Enter your name: ')
-print ('Hello', name)
-
 #002
-
-first_name = input ('Enter your first name: ')
-second_name = input ('Enter your second name: ')
-print ('Hello, ', first_name, second_name)
 
 #003
 
-print ('What do you call a bear with no teeth? ', 'A gummy bear!')
-
 #004
-
-num1 = int (input ('Введите первое число: '))
-num2 = int (input ('Введите второе число: '))
-print ('The total is ', num1 + num2)
-
 
 #005
 
-num1 = int (input ('Введите первое число: '))
-num2 = int (input ('Введите второе число: '))
-num3 = int (input ('Введите третье число: '))
-print('The answer is ', (num1 + num2) * num3)
-
 #006
-
-answer1 = int (input ('Сколько кусков пиццы у вас было?: '))
-answer2 = int (input ('Сколько кусков вы съели?: '))
-print('У вас осталось ', answer1 - answer2, 'куска!')
 
 #007
 
-name = input ('Enter your name: ')
-age = int (input ('Enter your age: '))
-print (name, 'next birthday you will be ', age + 1)
-
 #008
-
-bill = int(input("What is the total cost of the bill? "))
-people = int(input("How many people are there? "))
-each = bill / people
-print("Each person should pay ₤", each)
 
 #009
 
-days = int(input("Enter the number of days: "))
-hours = days * 24
-minutes = hours * 60
-seconds = minutes * 60
-print("In ", days, " days there are...")
-print(hours, " hours")
-print(minutes, " minutes")
-print(seconds, " seconds")
-
 #010
 
-kilo = int(input("Enter the number of kilos: "))
-pound = kilo * 2.204
-print("That is ", pound, " pounds")
-
 #011
-
-larger = int(input("Enter a number of 100: "))
-smaller = int(input("Enter a number under 10: "))
-answer = larger // smaller
-print(smaller, " goes into ", larger, answer, " times")
 
 #012
 
