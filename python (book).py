@@ -75,6 +75,14 @@ else:
 
 #018
 
+num = int (input ('Введите число:'))
+if num < 10:
+    print ('Too low')
+elif 10 <= num <= 20:
+    print ('Correct')
+else:
+    print ('Too high')
+
 #019
 
 #020
