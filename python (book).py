@@ -42,6 +42,14 @@
 
 #022
 
+name = input ('Enter your name in lower case: ')
+surname = input ('Enter your surname in lower case: ')
+name = name.title ()
+surname = surname.title()
+result = name + " " + surname
+print (result)
+
+
 #023
 
 #024
