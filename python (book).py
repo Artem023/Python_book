@@ -32,6 +32,12 @@ else:
 
 #014
 
+num = int (input ('Введите число от 10 до 20: '))
+if 10 <= num <= 20:
+    print ('Thenk you!')
+else:
+    print ('Incorrect answer(')
+
 #015
 
 #016
