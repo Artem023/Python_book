@@ -30,6 +30,18 @@
 
 #016
 
+quest1 = input ('На улице идет дождь?: ')
+quest1 = str.lower(quest1)
+if quest1 == 'yes':
+    quest2 = input ('На улице ветренно?: ')
+    quest2 = str.lower(quest2)
+    if quest2 == 'yes':
+        print ("It's too windy for an umbrella")
+    else:    
+        print ('Take an umbrella')
+else:
+    print ('Enjoy your day')
+
 #017
 
 #018
