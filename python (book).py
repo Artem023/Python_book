@@ -28,6 +28,13 @@
 
 #015
 
+colour = input ('Напишите ваш любимый цвет: ')
+if colour == 'red' or colour == 'RED' or colour == 'Red':
+    print ('I like red too!')
+else:
+    print ("I don't like ", colour, ", I prefer red")
+
+
 #016
 
 #017
