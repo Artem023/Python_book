@@ -43,6 +43,11 @@ print (len (name))
 
 #021
 
+name = input ('Enter your name: ')
+surname = input ('Enter surname: ')
+result = name + " " + surname
+print(len(result))
+
 #022
 
 #023
