@@ -60,6 +60,14 @@ print (result)
 
 #023
 
+text = input ('Введите первую строку стихотворения: ')
+length = len (text)
+print (length) 
+start = int (input ("Введите начальную позицию: "))
+end = int (input ('Введите последнее позицию: '))
+part = text[start : end]
+print (part)
+
 #024
 
 #025
