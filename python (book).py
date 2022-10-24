@@ -70,6 +70,10 @@ print (part)
 
 #024
 
+name = input ('Enter your name: ')
+name = name.upper ()
+print (name)
+
 #025
 
 #026
